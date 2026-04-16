@@ -1,0 +1,1 @@
+#This is an Exploratory Data Analysis (EDA) script for analyzing election-related fake news data.
