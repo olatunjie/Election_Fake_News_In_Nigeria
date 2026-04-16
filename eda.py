@@ -7,7 +7,7 @@ from scipy.stats import spearmanr
 
 # 1. Load the data
 # Using the structure from the provided CSV 
-data = pd.read_csv('election_fake_news_data.csv')
+data = pd.read_csv('data/election_fake_news_data.csv')
 
 # 2. Preprocessing: Define Likert Mappings
 # 1=Strongly Disagree/Very Infrequently, 5=Strongly Agree/Very Frequently 
